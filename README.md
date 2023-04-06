@@ -6,6 +6,10 @@ Discord.gg/A34development
 
 
 
+# How To Install 
+
+Go Into the QBcore Banking folder and drag and drop
+
 # QBCore Framework
 Copyright (C) 2021 Joshua Eger
 
